@@ -1,0 +1,27 @@
+
+@media screen and (max-width:720px){
+    .carousel-caption {
+        right: 12% !important;
+        left: 12% !important;
+        text-align: left !important;
+        max-width: 720px;
+        z-index: 1;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+        font-size: 10px;
+    }
+    header .logo {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width:520px){
+    .subtitulo {
+        font-size: 11px;
+    }
+    .botao{
+        font-size: 9px;
+    }
+}
