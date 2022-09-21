@@ -2,7 +2,8 @@
 
 > Fiz algumas alterações com base no [projeto original](https://github.com/benits/github-api-interface).  
 
-<img src="/print.PNG" width="600">
+![print](print.PNG)
+
 
 Este projeto foi criado para estudo através da plataforma Digital Innovation One;
 
